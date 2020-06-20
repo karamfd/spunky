@@ -1,0 +1,7 @@
+# YAML & YML
+key: value
+number: 24
+boolean: true
+type:
+  - string: "optional"
+    object: false

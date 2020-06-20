@@ -1,0 +1,37 @@
+{
+  "name": "spunky",
+  "displayName": "Spunky",
+  "description": "dark theme with a minimal colour palette",
+  "version": "0.0.1",
+  "publisher": "karamfd",
+  "icon": "img/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karamfd/spunky"
+  },
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spunky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spunky-color-theme.json"
+      },
+      {
+        "label": "Spunky Monkey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spunky-monkey-color-theme.json"
+      },
+      {
+        "label": "Spunky Funky",
+        "uiTheme": "vs",
+        "path": "./themes/spunky-funky-color-theme.json"
+      }
+    ]
+  }
+}

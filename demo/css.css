@@ -1,0 +1,28 @@
+/* CSS */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #fff;
+}
+
+body {
+  background-image: url(../icon.png);
+  font-family: "Courier New", Courier, monospace;
+  color: var(--white);
+}
+
+.class {
+  font-size: 2rem;
+  color: hsl(210, 100%, 60%) !important;
+}
+
+#id:nth-child(odd) {
+  color: #123456;
+}
+
+@media screen and (max-width: 666px) {
+}
