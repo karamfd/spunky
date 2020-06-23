@@ -6,15 +6,21 @@
 
 ## Spunky
 
+![spunky theme screenshot](img/spunky.png)
+
 - This is the original theme with low saturation.
 - Low saturation is better for your eyes, especially at night.
 
 ## Spunky Monkey
 
+![spunky monkey theme screenshot](img/spunky-monkey.png)
+
 - Brighter colors offer a better experience during presentations.
 - Colorblind friendly
 
 ## Spunky Funky
+
+![spunky funky theme screenshot](img/spunky-funky.png)
 
 - Light version of Spunky Monkey
 - Works better with older projectors or in direct sunlight.
