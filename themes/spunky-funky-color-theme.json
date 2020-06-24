@@ -169,6 +169,7 @@
     "focusBorder": "#c1c8d7",
     "foreground": "#262c3b"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "name": "Comment",
