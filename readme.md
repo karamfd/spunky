@@ -6,21 +6,21 @@
 
 ## Spunky
 
-![Spunky Screenshot](img/spunky.png)
+![Spunky Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky.png)
 
 - This is the original theme with low saturation.
 - Low saturation is better for your eyes, especially at night.
 
 ## Spunky Monkey
 
-![Spunky Monkey Screenshot](img/spunky-monkey.png)
+![Spunky Monkey Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky-monkey.png)
 
 - Brighter colors offer a better experience during presentations.
 - Colorblind friendly
 
 ## Spunky Funky
 
-![Spunky Funky Screenshot](img/spunky-funky.png)
+![Spunky Funky Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky-funky.png)
 
 - Light version of Spunky Monkey
 - Works better with older projectors or in direct sunlight.
