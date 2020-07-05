@@ -32,6 +32,7 @@
 - CSS
 - Javascript
 - PHP
+- SCSS
 - SQL
 - JSON
 - YAML
