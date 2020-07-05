@@ -199,31 +199,25 @@
     },
     {
       "name": "CSS - Important Keyword",
-      "scope": "keyword.other.important.css",
+      "scope": "keyword.other.important",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ba85ff"
+        "foreground": "#00c774"
       }
     },
     {
       "name": "CSS Classes and IDs",
       "scope": [
         "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.id.css",
-        "source.sql constant.numeric"
+        "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#d6b200"
+        "foreground": "#3aadff"
       }
     },
     {
-      "name": "CSS - Pseudo Classes and Elements",
-      "scope": [
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
-        "source.js constant.numeric",
-        "source.php constant.numeric"
-      ],
+      "name": "Numbers - JS and PHP",
+      "scope": ["source.js constant.numeric", "source.php constant.numeric"],
       "settings": {
         "foreground": "#00c774"
       }
@@ -231,7 +225,7 @@
     {
       "name": "JS - Functions",
       "scope": [
-        "punctuation.definition.keyword.css",
+        "punctuation.definition.keyword",
         "storage.type.class",
         "storage.type.function"
       ],
@@ -334,8 +328,8 @@
       "scope": [
         "constant.character.escape",
         "constant.escape",
-        "source.css support.constant",
-        "source.css support.function"
+        "constant.other.scss",
+        "support.constant"
       ],
       "settings": {
         "foreground": "#ff7787"
@@ -364,6 +358,7 @@
         "markup.changed",
         "markup.changed.git_gutter",
         "meta.use.php",
+        "source.sql constant.numeric",
         "support.orther.namespace.use.php",
         "support.other.namespace.php",
         "support.type.sys-types"
