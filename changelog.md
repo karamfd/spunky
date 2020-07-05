@@ -1,5 +1,19 @@
 # Change Log
 
+## 0.2
+
+- Added support for SCSS
+- CSS and SCSS color palettes are identical
+
+### Spunky Monkey Changes
+
+- CSS classes and ids changed from yellow to blue
+- CSS Pseudo classes and ids changed from green to yellow
+- CSS functions changed from red to blue
+- CSS Important keyword changed from violet to green
+- SQL Numbers changed from red to yellow to differentiate it from strings
+- JS and PHP numbers changed from red to green to differentiate it from strings
+
 ## 0.1.5
 
 - Changed string colors from green to red to make the theme more colorblind friendly
