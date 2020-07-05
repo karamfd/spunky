@@ -199,7 +199,7 @@
     },
     {
       "name": "CSS - Important Keyword",
-      "scope": "keyword.other.important.css",
+      "scope": "keyword.other.important",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#a382ce"
@@ -228,7 +228,7 @@
     {
       "name": "JS - Functions",
       "scope": [
-        "punctuation.definition.keyword.css",
+        "punctuation.definition.keyword",
         "storage.type.class",
         "storage.type.function"
       ],
@@ -331,8 +331,8 @@
       "scope": [
         "constant.character.escape",
         "constant.escape",
-        "source.css support.constant",
-        "source.css support.function"
+        "constant.other.scss",
+        "support.constant"
       ],
       "settings": {
         "foreground": "#bd7c99"
