@@ -7,7 +7,7 @@
 
 ### Spunky Monkey Changes
 
-- CSS classes and ids changed from yellow to blue
+- CSS classes and ids changed from yellow to violet
 - CSS Pseudo classes and ids changed from green to yellow
 - CSS functions changed from red to blue
 - CSS Important keyword changed from violet to green
