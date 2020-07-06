@@ -208,11 +208,11 @@
     {
       "name": "CSS Classes and IDs",
       "scope": [
-        "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.id.css"
+        "entity.other.attribute-name.class",
+        "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#3aadff"
+        "foreground": "#ba85ff"
       }
     },
     {
