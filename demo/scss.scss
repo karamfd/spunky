@@ -1,4 +1,4 @@
-/* CSS */
+/* SCSS */
 *,
 *::before,
 *::after {
@@ -25,4 +25,9 @@ body {
 }
 
 @media screen and (max-width: 666px) {
+}
+
+.scss {
+  position: relative;
+  padding: 50vh 0 get-size("800") 0;
 }
