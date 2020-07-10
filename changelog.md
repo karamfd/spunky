@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.2.1
+
+- SCSS numeric colors changed from red to yellow
+- Color change provides a better distinction when using long SCSS specific functions
+
 ## 0.2
 
 - Added support for SCSS
