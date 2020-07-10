@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.3
+
+- Added support for TOML
+- TOML color palette is similar to JSON and YAML
+
 ## 0.2.1
 
 - SCSS numeric colors changed from red to yellow
