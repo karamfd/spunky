@@ -243,7 +243,8 @@
       "scope": [
         "punctuation.definition.keyword",
         "storage.type.class",
-        "storage.type.function"
+        "storage.type.function",
+        "source.toml string"
       ],
       "settings": {
         "foreground": "#006ebd"
@@ -254,6 +255,7 @@
       "scope": [
         "entity.other.inherited-class.js",
         "string constant.other.placeholder",
+        "source.toml keyword",
         "variable"
       ],
       "settings": {
@@ -691,6 +693,16 @@
         "markup.inline.raw.string.markdown",
         "punctuation.definition.markdown",
         "punctuation.definition.raw.markdown"
+      ],
+      "settings": {
+        "foreground": "#756b00"
+      }
+    },
+    {
+      "name": "TOML - Booleans and Numbers",
+      "scope": [
+        "source.toml constant.numeric",
+        "source.toml constant.other.boolean"
       ],
       "settings": {
         "foreground": "#756b00"

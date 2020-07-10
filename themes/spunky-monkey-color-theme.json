@@ -228,7 +228,8 @@
       "scope": [
         "punctuation.definition.keyword",
         "storage.type.class",
-        "storage.type.function"
+        "storage.type.function",
+        "source.toml string"
       ],
       "settings": {
         "foreground": "#3aadff"
@@ -239,6 +240,7 @@
       "scope": [
         "entity.other.inherited-class.js",
         "string constant.other.placeholder",
+        "source.toml keyword",
         "variable"
       ],
       "settings": {
@@ -516,8 +518,12 @@
       }
     },
     {
-      "name": "JSON and YAML - Booleans",
-      "scope": ["constant.language.json", "source.yaml constant.language"],
+      "name": "JSON, TOML, and YAML - Booleans",
+      "scope": [
+        "constant.language.json",
+        "source.toml constant.other.boolean",
+        "source.yaml constant.language"
+      ],
       "settings": {
         "foreground": "#ff7787"
       }

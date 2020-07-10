@@ -229,6 +229,7 @@
       "name": "JS - Functions",
       "scope": [
         "punctuation.definition.keyword",
+        "source.toml string",
         "storage.type.class",
         "storage.type.function"
       ],
@@ -240,6 +241,7 @@
       "name": "Variables",
       "scope": [
         "entity.other.inherited-class.js",
+        "source.toml keyword",
         "string constant.other.placeholder",
         "variable"
       ],
@@ -518,7 +520,11 @@
     },
     {
       "name": "JSON and YAML - Booleans",
-      "scope": ["constant.language.json", "source.yaml constant.language"],
+      "scope": [
+        "constant.language.json",
+        "source.toml constant.other.boolean",
+        "source.yaml constant.language"
+      ],
       "settings": {
         "foreground": "#bd7c99"
       }
