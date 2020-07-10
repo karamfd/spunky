@@ -183,6 +183,7 @@
       "scope": [
         "entity",
         "entity.name.type.class.js",
+        "source.css.scss constant.numeric",
         "support",
         "support.class"
       ],
