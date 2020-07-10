@@ -31,12 +31,13 @@
 - HTML
 - CSS
 - Javascript
+- JSON
+- Markdown
 - PHP
 - SCSS
 - SQL
-- JSON
+- TOML
 - YAML
-- Markdown
 
 ## How to Install
 
