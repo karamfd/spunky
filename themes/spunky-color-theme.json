@@ -530,16 +530,6 @@
       }
     },
     {
-      "name": "JSON - Comma Separators",
-      "scope": [
-        "source.json punctuation.separator.array",
-        "source.json punctuation.separator.dictionary.pair"
-      ],
-      "settings": {
-        "foreground": "#779c63"
-      }
-    },
-    {
       "name": "Markdown - Plain",
       "scope": [
         "meta.paragraph.markdown",
