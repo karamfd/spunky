@@ -1,4 +1,5 @@
 <!-- Credit: Sarah Drasner -->
+
 # Spunky Theme
 
 > Spunky theme for VS Code.
