@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.4
+
+- Added a config.md file, which requires a YAML syntax.
+- All color themes have been modified to include the same colors for YAML and this new config.md file.
+
 ## 0.3
 
 - Added support for TOML
