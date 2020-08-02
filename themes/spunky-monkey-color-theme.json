@@ -297,6 +297,7 @@
         "entity.name.tag",
         "markup.deleted.git_gutter",
         "meta.tag.sgml",
+        "meta.embedded.block.frontmatter",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "punctuation.definition.tag.html"
@@ -532,8 +533,7 @@
       "name": "Markdown - Plain",
       "scope": [
         "meta.paragraph.markdown",
-        "punctuation.definition.list_item.markdown",
-        "text.html.markdown"
+        "punctuation.definition.list_item.markdown"
       ],
       "settings": {
         "foreground": "#b1b6c4"
@@ -628,7 +628,8 @@
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "string.other.link.description.markdown",
-        "string.other.link.title.markdown"
+        "string.other.link.title.markdown",
+        "text.html.markdown"
       ],
       "settings": {
         "foreground": "#d6b200"
@@ -671,6 +672,9 @@
         "punctuation.definition.metadata.markdown",
         "punctuation.definition.string.begin.yaml",
         "punctuation.definition.string.end.yaml",
+        "string.quoted.double.yaml",
+        "string.quoted.single.yaml",
+        "string.unquoted.plain.out.yaml",
         "source.yaml string"
       ],
       "settings": {

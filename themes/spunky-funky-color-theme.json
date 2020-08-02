@@ -311,6 +311,7 @@
       "scope": [
         "entity.name.tag",
         "markup.deleted.git_gutter",
+        "meta.embedded.block.frontmatter",
         "meta.tag.sgml",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
@@ -681,6 +682,9 @@
         "punctuation.definition.metadata.markdown",
         "punctuation.definition.string.begin.yaml",
         "punctuation.definition.string.end.yaml",
+        "string.quoted.double.yaml",
+        "string.quoted.single.yaml",
+        "string.unquoted.plain.out.yaml",
         "source.yaml string"
       ],
       "settings": {

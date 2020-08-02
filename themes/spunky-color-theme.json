@@ -347,6 +347,7 @@
         "constant.other.symbol",
         "markup.inserted",
         "markup.inserted.git_gutter",
+        "meta.embedded.block.frontmatter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.definition.string",
         "string",
@@ -533,8 +534,7 @@
       "name": "Markdown - Plain",
       "scope": [
         "meta.paragraph.markdown",
-        "punctuation.definition.list_item.markdown",
-        "text.html.markdown"
+        "punctuation.definition.list_item.markdown"
       ],
       "settings": {
         "foreground": "#999fac"
@@ -629,7 +629,8 @@
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "string.other.link.description.markdown",
-        "string.other.link.title.markdown"
+        "string.other.link.title.markdown",
+        "text.html.markdown"
       ],
       "settings": {
         "foreground": "#9e8f67"
@@ -672,6 +673,10 @@
         "punctuation.definition.metadata.markdown",
         "punctuation.definition.string.begin.yaml",
         "punctuation.definition.string.end.yaml",
+        "string.quoted.double.yaml",
+        "string.quoted.single.yaml",
+        "string.unquoted.plain.out.yaml",
+        "Other",
         "source.yaml string"
       ],
       "settings": {
