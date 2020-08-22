@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.5
+
+- Added support to TOML front matter
+- YAML and TOML front matter files have the same syntax colors
+- YAML and TOML booleans & numbers have the same colors of light red
+
 ## 0.4
 
 - Added a config.md file, which requires a YAML syntax.
