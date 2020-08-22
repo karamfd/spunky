@@ -173,10 +173,7 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#b1b6c4ad"
       }
@@ -196,10 +193,7 @@
     },
     {
       "name": "Numbers",
-      "scope": [
-        "constant.numeric",
-        "constant.other.color"
-      ],
+      "scope": ["constant.numeric", "constant.other.color"],
       "settings": {
         "foreground": "#ff7787"
       }
@@ -224,10 +218,7 @@
     },
     {
       "name": "Numbers - JS and PHP",
-      "scope": [
-        "source.js constant.numeric",
-        "source.php constant.numeric"
-      ],
+      "scope": ["source.js constant.numeric", "source.php constant.numeric"],
       "settings": {
         "foreground": "#00c774"
       }
@@ -261,10 +252,7 @@
     },
     {
       "name": "Invalid",
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#ff6060"
       }
@@ -282,9 +270,7 @@
     },
     {
       "name": "JS - Storage Modifier",
-      "scope": [
-        "storage.modifier.js"
-      ],
+      "scope": ["storage.modifier.js"],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#3aadff"
@@ -339,10 +325,7 @@
     },
     {
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
-      "scope": [
-        "constant.character",
-        "punctuation.definition.entity.html"
-      ],
+      "scope": ["constant.character", "punctuation.definition.entity.html"],
       "settings": {
         "foreground": "#00c774"
       }
@@ -412,11 +395,7 @@
     },
     {
       "name": "URL",
-      "scope": [
-        "*link*",
-        "*uri*",
-        "*url*"
-      ],
+      "scope": ["*link*", "*uri*", "*url*"],
       "settings": {
         "fontStyle": "underline"
       }
