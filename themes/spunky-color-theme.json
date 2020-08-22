@@ -173,7 +173,10 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
       "settings": {
         "foreground": "#8390afcc"
       }
@@ -192,7 +195,10 @@
     },
     {
       "name": "Numbers & Hex Colors",
-      "scope": ["constant.numeric", "constant.other.color"],
+      "scope": [
+        "constant.numeric",
+        "constant.other.color"
+      ],
       "settings": {
         "foreground": "#bd7c99"
       }
@@ -241,6 +247,7 @@
       "name": "Variables",
       "scope": [
         "entity.other.inherited-class.js",
+        "keyword.key.toml",
         "source.toml keyword",
         "string constant.other.placeholder",
         "variable"
@@ -251,7 +258,10 @@
     },
     {
       "name": "Invalid",
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#d27981"
       }
@@ -269,7 +279,9 @@
     },
     {
       "name": "JS - Storage Modifier",
-      "scope": ["storage.modifier.js"],
+      "scope": [
+        "storage.modifier.js"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#6a95b4"
@@ -323,7 +335,10 @@
     },
     {
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
-      "scope": ["constant.character", "punctuation.definition.entity.html"],
+      "scope": [
+        "constant.character",
+        "punctuation.definition.entity.html"
+      ],
       "settings": {
         "foreground": "#a382ce"
       }
@@ -393,7 +408,11 @@
     },
     {
       "name": "URL",
-      "scope": ["*link*", "*uri*", "*url*"],
+      "scope": [
+        "*link*",
+        "*uri*",
+        "*url*"
+      ],
       "settings": {
         "fontStyle": "underline"
       }
@@ -522,7 +541,9 @@
     {
       "name": "JSON and YAML - Booleans",
       "scope": [
+        "constant.language.boolean.yaml",
         "constant.language.json",
+        "constant.other.boolean.toml",
         "source.toml constant.other.boolean",
         "source.yaml constant.language"
       ],
@@ -629,8 +650,7 @@
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "string.other.link.description.markdown",
-        "string.other.link.title.markdown",
-        "text.html.markdown"
+        "string.other.link.title.markdown"
       ],
       "settings": {
         "foreground": "#9e8f67"
@@ -675,6 +695,8 @@
         "punctuation.definition.string.end.yaml",
         "string.quoted.double.yaml",
         "string.quoted.single.yaml",
+        "string.quoted.single.basic.line.toml",
+        "string.quoted.single.literal.line.toml",
         "string.unquoted.plain.out.yaml",
         "Other",
         "source.yaml string"
