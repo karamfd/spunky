@@ -224,11 +224,10 @@
       }
     },
     {
-      "name": "JS - Functions",
+      "name": "String and Keyword",
       "scope": [
         "punctuation.definition.keyword",
         "storage.type.class",
-        "storage.type.function",
         "string.quoted.single.basic.line.toml",
         "string.quoted.single.literal.line.toml",
         "source.toml string"
@@ -269,11 +268,10 @@
       }
     },
     {
-      "name": "JS - Storage Modifier",
-      "scope": ["storage.modifier.js"],
+      "name": "Storage Modifier and Function",
+      "scope": ["storage.modifier.js", "storage.type.function"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#3aadff"
+        "foreground": "#ba85ff"
       }
     },
     {
