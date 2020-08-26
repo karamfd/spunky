@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.5.1
+
+- Changed JS storage modifier and function colors from blue to violet
+- Removed italic font style from the function keyword
+- Changes above were only made to the Spunky Monkey theme
+
 ## 0.5
 
 - Added support to TOML front matter
