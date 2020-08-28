@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.6
+
+- Spunky Monkey: CSS and SCSS have the same colors
+- Added a new cyan color to CSS Pseudo Classes and JS Numbers
+
 ## 0.5.1
 
 - Changed JS storage modifier and function colors from blue to violet
