@@ -183,7 +183,6 @@
       "scope": [
         "entity",
         "entity.name.type.class.js",
-        "source.css.scss constant.numeric",
         "support",
         "support.class"
       ],
@@ -199,28 +198,31 @@
       }
     },
     {
-      "name": "CSS - Important Keyword",
+      "name": "CSS - String and Important Keyword",
       "scope": "keyword.other.important",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#00c774"
+        "foreground": "#ba85ff"
       }
     },
     {
-      "name": "CSS Classes and IDs",
+      "name": "CSS Pseudo Classes and Elements",
       "scope": [
-        "entity.other.attribute-name.class",
-        "entity.other.attribute-name.id"
+        "entity.other.attribute-name.pseudo-class",
+        "entity.other.attribute-name.pseudo-element",
+        "source.css punctuation.definition.string.begin",
+        "source.css punctuation.definition.string.end",
+        "source.css string"
       ],
       "settings": {
-        "foreground": "#ba85ff"
+        "foreground": "#00ccc2"
       }
     },
     {
       "name": "Numbers - JS and PHP",
       "scope": ["source.js constant.numeric", "source.php constant.numeric"],
       "settings": {
-        "foreground": "#00c774"
+        "foreground": "#00ccc2"
       }
     },
     {
