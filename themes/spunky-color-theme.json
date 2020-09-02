@@ -526,6 +526,8 @@
         "constant.language.boolean.yaml",
         "constant.language.json",
         "constant.other.boolean.toml",
+        "constant.other.date.toml",
+        "constant.other.timestamp.yaml",
         "source.toml constant.other.boolean",
         "source.yaml constant.language"
       ],

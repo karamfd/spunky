@@ -546,6 +546,8 @@
         "constant.language.boolean.yaml",
         "constant.language.json",
         "constant.other.boolean.toml",
+        "constant.other.date.toml",
+        "constant.other.timestamp.yaml",
         "source.yaml constant.language"
       ],
       "settings": {
