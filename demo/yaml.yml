@@ -2,6 +2,7 @@
 key: value
 number: 24
 boolean: true
+date: 2020-09-02
 type:
   - string: "optional"
     object: false
