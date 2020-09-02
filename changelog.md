@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.6.1
+
+- Added date property values in the TOML and YAML demo files
+- Added syntax highlighting to the date property values in TOML and YAML
+
 ## 0.6
 
 - Spunky Monkey: CSS and SCSS have the same colors
