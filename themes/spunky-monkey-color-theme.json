@@ -167,7 +167,8 @@
     "welcomePage.buttonHoverBackground": "#2e3648",
     // Miscellaneous
     "focusBorder": "#2e3648",
-    "foreground": "#b0b4bf"
+    "foreground": "#b0b4bf",
+    "selection.background": "#ff778780"
   },
   "semanticHighlighting": true,
   "tokenColors": [
