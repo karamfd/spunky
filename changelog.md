@@ -2,7 +2,7 @@
 
 ## 0.7
 
-- Used the new Adobe Color accessibility feature to enhance the color-blind features of the Spunky Funky and Spunky Monkey themes.
+- Improved color-blindness with the Adobe Color Accessibility feature
 
 ## 0.6.2
 
