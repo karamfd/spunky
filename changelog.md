@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7
+
+- Used the new Adobe Color accessibility feature to enhance the color-blind features of the Spunky Funky and Spunky Monkey themes.
+
 ## 0.6.2
 
 - Added a selection background property for the input field, so I can better see the highlighted text.
