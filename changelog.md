@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.6.2
+
+- Added a selection background property for the input field, so I can better see the highlighted text.
+
 ## 0.6.1
 
 - Added date property values in the TOML and YAML demo files
