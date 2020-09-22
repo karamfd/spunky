@@ -27,8 +27,8 @@
     "button.foreground": "#eceef3",
     "button.hoverBackground": "#ad004ecc",
     // diffEditor
-    "diffEditor.insertedTextBackground": "#007e0422",
-    "diffEditor.insertedTextBorder": "#007e0444",
+    "diffEditor.insertedTextBackground": "#00755a22",
+    "diffEditor.insertedTextBorder": "#00755a44",
     "diffEditor.removedTextBackground": "#ad004e22",
     "diffEditor.removedTextBorder": "#ad004e44",
     // editor
@@ -46,7 +46,7 @@
     "editorIndentGuide.background": "#262c3b22",
     "editorLineNumber.activeForeground": "#262c3b",
     "editorLineNumber.foreground": "#262c3b80",
-    "editorLink.activeForeground": "#007e04",
+    "editorLink.activeForeground": "#00755a",
     "editorRuler.foreground": "#c1c8d7",
     // suggestion widgets for auto-completion
     "editorSuggestWidget.background": "#dadee7",
@@ -60,12 +60,12 @@
     "extensionButton.prominentForeground": "#eceef3",
     "extensionButton.prominentHoverBackground": "#ad004e80",
     // gitDecoration
-    "gitDecoration.addedResourceForeground": "#007e04",
-    "gitDecoration.conflictingResourceForeground": "#b36200",
+    "gitDecoration.addedResourceForeground": "#00755a",
+    "gitDecoration.conflictingResourceForeground": "#b36e30",
     "gitDecoration.deletedResourceForeground": "#ad004e",
     "gitDecoration.ignoredResourceForeground": "#0062a8",
     "gitDecoration.modifiedResourceForeground": "#807500",
-    "gitDecoration.untrackedResourceForeground": "#007e04",
+    "gitDecoration.untrackedResourceForeground": "#00755a",
     // input
     "input.background": "#d3d8e3",
     "input.border": "#262c3b",
@@ -138,16 +138,16 @@
     "terminal.ansiBrightBlack": "#0062a8",
     "terminal.ansiBrightBlue": "#0080db",
     "terminal.ansiBrightCyan": "#008094",
-    "terminal.ansiBrightGreen": "#007e04",
-    "terminal.ansiBrightMagenta": "#9747ff",
+    "terminal.ansiBrightGreen": "#00755a",
+    "terminal.ansiBrightMagenta": "#6f3dff",
     "terminal.ansiBrightRed": "#e00065",
     "terminal.ansiBrightWhite": "#262c3b",
     "terminal.ansiBrightYellow": "#807500",
     "terminal.ansiBlack": "#0062a8",
     "terminal.ansiBlue": "#0080db",
     "terminal.ansiCyan": "#008094",
-    "terminal.ansiGreen": "#007e04",
-    "terminal.ansiMagenta": "#9747ff",
+    "terminal.ansiGreen": "#00755a",
+    "terminal.ansiMagenta": "#6f3dff",
     "terminal.ansiRed": "#e00065",
     "terminal.ansiWhite": "#262c3b",
     "terminal.ansiYellow": "#807500",
@@ -195,7 +195,7 @@
       "name": "Numbers - JS and PHP",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {
@@ -231,7 +231,7 @@
         "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {
@@ -348,7 +348,7 @@
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": ["constant.character", "punctuation.definition.entity.html"],
       "settings": {
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {
@@ -403,7 +403,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {
@@ -436,7 +436,7 @@
       "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "",
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {
@@ -584,7 +584,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#007e04"
+        "foreground": "#00755a"
       }
     },
     {

@@ -27,8 +27,8 @@
     "button.foreground": "#b0b4bf",
     "button.hoverBackground": "#3a435a",
     // diffEditor
-    "diffEditor.insertedTextBackground": "#00c77422",
-    "diffEditor.insertedTextBorder": "#00c77444",
+    "diffEditor.insertedTextBackground": "#00ccad22",
+    "diffEditor.insertedTextBorder": "#00ccad44",
     "diffEditor.removedTextBackground": "#ff778722",
     "diffEditor.removedTextBorder": "#ff778744",
     // editor
@@ -46,7 +46,7 @@
     "editorIndentGuide.background": "#b0b4bf22",
     "editorLineNumber.activeForeground": "#b0b4bf",
     "editorLineNumber.foreground": "#8390af80",
-    "editorLink.activeForeground": "#00c774",
+    "editorLink.activeForeground": "#00ccad",
     "editorRuler.foreground": "#2e3648",
     // suggestion widgets for auto-completion
     "editorSuggestWidget.background": "#161a22",
@@ -60,12 +60,12 @@
     "extensionButton.prominentForeground": "#cccfd6",
     "extensionButton.prominentHoverBackground": "#ff778740",
     // gitDecoration
-    "gitDecoration.addedResourceForeground": "#00c774",
+    "gitDecoration.addedResourceForeground": "#00ccad",
     "gitDecoration.conflictingResourceForeground": "#d97800",
     "gitDecoration.deletedResourceForeground": "#ff7787",
-    "gitDecoration.ignoredResourceForeground": "#0083e0",
+    "gitDecoration.ignoredResourceForeground": "#456ffa",
     "gitDecoration.modifiedResourceForeground": "#d6b200",
-    "gitDecoration.untrackedResourceForeground": "#00c774",
+    "gitDecoration.untrackedResourceForeground": "#00ccad",
     // input
     "input.background": "#2e3648",
     "input.border": "#0a0c10",
@@ -135,19 +135,19 @@
     "tab.border": "#0a0c10",
     "tab.inactiveBackground": "#222835",
     // terminal
-    "terminal.ansiBrightBlack": "#0083e0",
+    "terminal.ansiBrightBlack": "#456ffa",
     "terminal.ansiBrightBlue": "#3aadff",
     "terminal.ansiBrightCyan": "#009fb8",
-    "terminal.ansiBrightGreen": "#00c774",
-    "terminal.ansiBrightMagenta": "#ba85ff",
+    "terminal.ansiBrightGreen": "#00ccad",
+    "terminal.ansiBrightMagenta": "#987cff",
     "terminal.ansiBrightRed": "#ff7787",
     "terminal.ansiBrightWhite": "#cccfd6",
     "terminal.ansiBrightYellow": "#d6b200",
-    "terminal.ansiBlack": "#0083e0",
+    "terminal.ansiBlack": "#456ffa",
     "terminal.ansiBlue": "#3aadff",
     "terminal.ansiCyan": "#009fb8",
-    "terminal.ansiGreen": "#00c774",
-    "terminal.ansiMagenta": "#ba85ff",
+    "terminal.ansiGreen": "#00ccad",
+    "terminal.ansiMagenta": "#987cff",
     "terminal.ansiRed": "#ff7787",
     "terminal.ansiWhite": "#b0b4bf",
     "terminal.ansiYellow": "#d6b200",
@@ -203,7 +203,7 @@
       "scope": "keyword.other.important",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ba85ff"
+        "foreground": "#987cff"
       }
     },
     {
@@ -216,14 +216,14 @@
         "source.css string"
       ],
       "settings": {
-        "foreground": "#00ccc2"
+        "foreground": "#00ccad"
       }
     },
     {
       "name": "Numbers - JS and PHP",
       "scope": ["source.js constant.numeric", "source.php constant.numeric"],
       "settings": {
-        "foreground": "#00ccc2"
+        "foreground": "#00ccad"
       }
     },
     {
@@ -274,7 +274,7 @@
       "name": "Storage Modifier and Function",
       "scope": ["storage.modifier.js", "storage.type.function"],
       "settings": {
-        "foreground": "#ba85ff"
+        "foreground": "#987cff"
       }
     },
     {
@@ -328,7 +328,7 @@
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": ["constant.character", "punctuation.definition.entity.html"],
       "settings": {
-        "foreground": "#00c774"
+        "foreground": "#00ccad"
       }
     },
     {
@@ -384,7 +384,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#ba85ff"
+        "foreground": "#987cff"
       }
     },
     {
@@ -417,7 +417,7 @@
       "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "",
-        "foreground": "#ba85ff"
+        "foreground": "#987cff"
       }
     },
     {
@@ -566,7 +566,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#00c774"
+        "foreground": "#00ccad"
       }
     },
     {
