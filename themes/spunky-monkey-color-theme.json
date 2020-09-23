@@ -227,6 +227,23 @@
       }
     },
     {
+      "name": "Numbers and Booleans - Config Files",
+      "scope": [
+        "constant.language.boolean.yaml",
+        "constant.language.json",
+        "constant.numeric.json",
+        "constant.numeric.integer.toml",
+        "constant.numeric.integer.yaml",
+        "constant.other.boolean.toml",
+        "constant.other.date.toml",
+        "constant.other.timestamp.yaml",
+        "source.toml constant.other.boolean",
+      ],
+      "settings": {
+        "foreground": "#d6b200",
+      }
+    },
+    {
       "name": "String and Keyword",
       "scope": [
         "punctuation.definition.keyword",
@@ -520,21 +537,6 @@
       ],
       "settings": {
         "foreground": "#3aadff"
-      }
-    },
-    {
-      "name": "JSON, TOML, and YAML - Booleans",
-      "scope": [
-        "constant.language.boolean.yaml",
-        "constant.language.json",
-        "constant.other.boolean.toml",
-        "constant.other.date.toml",
-        "constant.other.timestamp.yaml",
-        "source.toml constant.other.boolean",
-        "source.yaml constant.language"
-      ],
-      "settings": {
-        "foreground": "#ff7787"
       }
     },
     {
