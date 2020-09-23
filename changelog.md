@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.8
+
+- All config files in the Spunky Monkey theme have the same colors of yellow instead of light red.
+- Yellow doesn't clash with red, which is used to display invalid syntax.
+
 ## 0.7
 
 - Improved color-blindness with the Adobe Color Accessibility feature
