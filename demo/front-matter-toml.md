@@ -1,5 +1,4 @@
 +++
-# TOML Syntax
 title = "home"
 author = 'Karam'
 boolean = true
