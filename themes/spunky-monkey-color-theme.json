@@ -210,18 +210,8 @@
       "name": "CSS Pseudo Classes and Elements",
       "scope": [
         "entity.other.attribute-name.pseudo-class",
-        "entity.other.attribute-name.pseudo-element",
-        "source.css punctuation.definition.string.begin",
-        "source.css punctuation.definition.string.end",
-        "source.css string"
+        "entity.other.attribute-name.pseudo-element"
       ],
-      "settings": {
-        "foreground": "#00ccad"
-      }
-    },
-    {
-      "name": "Numbers - JS and PHP",
-      "scope": ["source.js constant.numeric", "source.php constant.numeric"],
       "settings": {
         "foreground": "#00ccad"
       }
@@ -237,10 +227,10 @@
         "constant.other.boolean.toml",
         "constant.other.date.toml",
         "constant.other.timestamp.yaml",
-        "source.toml constant.other.boolean",
+        "source.toml constant.other.boolean"
       ],
       "settings": {
-        "foreground": "#d6b200",
+        "foreground": "#d6b200"
       }
     },
     {
@@ -343,7 +333,7 @@
     },
     {
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
-      "scope": ["constant.character", "punctuation.definition.entity.html"],
+      "scope": ["punctuation.definition.string", "string"],
       "settings": {
         "foreground": "#00ccad"
       }
@@ -351,9 +341,11 @@
     {
       "name": "Escape Characters and HTML String",
       "scope": [
+        "constant.character",
         "constant.character.escape",
         "constant.escape",
         "constant.other.scss",
+        "punctuation.definition.entity.html",
         "support.constant"
       ],
       "settings": {
@@ -368,8 +360,6 @@
         "markup.inserted",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-        "punctuation.definition.string",
-        "string",
         "string.other.link",
         "support.other.variable"
       ],
