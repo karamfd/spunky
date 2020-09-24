@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.9
+
+- Changed the string colors in the Spunky Monkey theme to closely match the syntax colors of the original Spunky theme in HTML.
+- The default numeric syntax color of light red is now used for all programming languages.
+- Added a number variable in the PHP demo file
+
 ## 0.8
 
 - All config files in the Spunky Monkey theme have the same colors of yellow instead of light red.
