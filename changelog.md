@@ -1,5 +1,13 @@
 # Change Log
 
+# 1.0
+
+- Spunky Monkey UI notification color was changed from light red to yellow
+- Spunky Monkey syntax colors are now mostly compatible with the AAA Accessibility Guidelines.
+- Changed the template expression color from blue to violet, so it doesn't clash with the strings colors of cyan.
+- PHP arrow functions and regular functions have the same syntax color of violet
+- PHP global variables and regular variables have the same syntax color of blue
+
 ## 0.9
 
 - Changed the string colors in the Spunky Monkey theme to closely match the syntax colors of the original Spunky theme in HTML.
