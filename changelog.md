@@ -1,6 +1,11 @@
 # Change Log
 
-# 1.0
+## 1.1
+
+- Darker UI colors for the Spunky Monkey theme
+- All syntax colors are now compatible with the AAA Accessibility Guidelines
+
+## 1.0
 
 - Spunky Monkey UI notification color was changed from light red to yellow
 - Spunky Monkey syntax colors are now mostly compatible with the AAA Accessibility Guidelines.
