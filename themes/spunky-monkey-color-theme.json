@@ -37,9 +37,9 @@
     "editor.findMatchHighlightBackground": "#ff99a140",
     "editor.findRangeHighlightBackground": "#223c5866",
     "editor.foreground": "#c4cbd9",
-    "editor.lineHighlightBackground": "#223c5866",
+    "editor.lineHighlightBackground": "#223c5899",
     "editor.rangeHighlightBackground": "#223c5866",
-    "editor.selectionBackground": "#2b4b6e66",
+    "editor.selectionBackground": "#2b4b6e99",
     "editorError.foreground": "#ff6060",
     "editorGutter.background": "#111e2c",
     "editorIndentGuide.activeBackground": "#5d8dc099",
@@ -268,10 +268,7 @@
     },
     {
       "name": "Storage and PHP Variables",
-      "scope": [
-        "storage",
-        "variable.other.php"
-      ],
+      "scope": ["storage", "variable.other.php"],
       "settings": {
         "foreground": "#6bceff"
       }
