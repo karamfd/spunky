@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2
+
+Increased the contrast of the line highlight and selection background, so I can better see the highlighted line and code.
+
 ## 1.1
 
 - Darker UI colors for the Spunky Monkey theme
