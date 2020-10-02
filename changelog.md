@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.5
+
+Borders across the editor UI have a darker color, so they are less distracting.
+
 ## 1.2
 
 Increased the contrast of the line highlight and selection background, so I can better see the highlighted line and code.
