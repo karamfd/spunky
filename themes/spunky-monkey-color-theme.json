@@ -7,7 +7,7 @@
     "activityBar.activeBorder": "#111e2c",
     "activityBar.activeFocusBorder": "#111e2c",
     "activityBar.background": "#111e2c",
-    "activityBar.border": "#1d3249",
+    "activityBar.border": "#060a0f",
     "activityBar.dropBorder": "#111e2c",
     "activityBar.foreground": "#c4cbd9b3",
     "activityBar.inactiveForeground": "#5d8dc099",
@@ -87,7 +87,7 @@
     "list.inactiveSelectionForeground": "#c4cbd9b3",
     // panel
     "panel.background": "#0b141d",
-    "panel.border": "#1d3249",
+    "panel.border": "#060a0f",
     "panelTitle.activeBorder": "#e0bb00",
     "panelTitle.activeForeground": "#e0bb00",
     "panelTitle.inactiveForeground": "#c4cbd9b3",
@@ -112,15 +112,15 @@
     "settings.textInputForeground": "#c4cbd9",
     // sideBar
     "sideBar.background": "#0b141d",
-    "sideBar.border": "#1d3249",
+    "sideBar.border": "#060a0f",
     "sideBar.foreground": "#c4cbd999",
     "sideBarSectionHeader.background": "#17283b",
     "sideBarSectionHeader.foreground": "#c4cbd9cc",
-    "sideBarSectionHeader.border": "#0b141d",
+    "sideBarSectionHeader.border": "#060a0f",
     "sideBarTitle.foreground": "#c4cbd999",
     // statusBar
     "statusBar.background": "#0b141d",
-    "statusBar.border": "#1d3249",
+    "statusBar.border": "#060a0f",
     "statusBar.debuggingBackground": "#e0bb00",
     "statusBar.debuggingForeground": "#1d3249",
     "statusBar.foreground": "#5d8dc0",
@@ -129,10 +129,10 @@
     // tab
     "editorGroup.border": "#1d3249",
     "editorGroupHeader.tabsBackground": "#111e2c",
-    "editorGroupHeader.tabsBorder": "#1d3249",
-    "tab.activeBackground": "#17283b80",
+    "editorGroupHeader.tabsBorder": "#060a0f",
+    "tab.activeBackground": "#1d3249b3",
     "tab.activeBorder": "#e0bb00",
-    "tab.border": "#1d3249",
+    "tab.border": "#060a0f",
     "tab.inactiveBackground": "#111e2c",
     // terminal
     "terminal.ansiBrightBlack": "#456ffa",
@@ -158,7 +158,7 @@
     // titleBar (Mac OS)
     "titleBar.activeBackground": "#0b141d",
     "titleBar.activeForeground": "#c4cbd9",
-    "titleBar.border": "#1d3249",
+    "titleBar.border": "#060a0f",
     "titleBar.inactiveBackground": "#0b141d",
     "titleBar.inactiveForeground": "#c4cbd9",
     // welcomePage
