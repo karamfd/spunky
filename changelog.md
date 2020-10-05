@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.4
+
+- CSS media type color is back to light red
+- PHP colors in Spunky and Spunky Monkey are the same
+- Functions, Variables, and Conditionals have a violet color in JS and PHP
+- This change is now wide across both themes.
+
 ## 1.3
 
 - Changed colors of classes, functions, and conditionals in JS from blue to violet.
