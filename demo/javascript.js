@@ -52,3 +52,23 @@ class EditFishForm extends Component {
     }),
   };
 }
+
+// Credit Aditya Vikram Singh
+function initTheme() {
+  let body = document.getElementsByTagName("body")[0];
+
+  if (window.localStorage.getItem("theme") !== null) {
+    if (window.localStorage.getItem("theme") === "dark") {
+      body.setAttribute("data-theme", "dark");
+    } else {
+      body.setAttribute("data-theme", "light");
+    }
+  } else {
+    if (
+      window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches
+    ) {
+      body.setAttribute("data-theme", "dark");
+    }
+  }
+}
