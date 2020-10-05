@@ -227,15 +227,10 @@
       }
     },
     {
-      "name": "JS - Functions",
-      "scope": [
-        "punctuation.definition.keyword",
-        "source.toml string",
-        "storage.type.class",
-        "storage.type.function"
-      ],
+      "name": "JS - Class, Functions, and Conditionals",
+      "scope": ["storage", "keyword.control.conditional.js"],
       "settings": {
-        "foreground": "#6a95b4"
+        "foreground": "#a382ce"
       }
     },
     {
@@ -261,8 +256,9 @@
     {
       "name": "Storage, Template Literals and PHP Variables",
       "scope": [
+        "punctuation.definition.keyword",
         "punctuation.definition.template-expression",
-        "storage",
+        "source.toml string",
         "variable.other.php"
       ],
       "settings": {
@@ -271,9 +267,8 @@
     },
     {
       "name": "JS - Storage Modifier",
-      "scope": ["storage.modifier.js"],
+      "scope": ["storage.modifier.js", "storage.modifier.async.js"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#6a95b4"
       }
     },
@@ -316,6 +311,7 @@
         "entity.name.method.js",
         "keyword",
         "keyword.other.special-method",
+        "support.constant",
         "support.function",
         "variable.function"
       ],
@@ -335,8 +331,7 @@
       "scope": [
         "constant.character.escape",
         "constant.escape",
-        "constant.other.scss",
-        "support.constant"
+        "constant.other.scss"
       ],
       "settings": {
         "foreground": "#bd7c99"

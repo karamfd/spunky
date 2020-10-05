@@ -237,7 +237,6 @@
       "name": "String and Keyword",
       "scope": [
         "punctuation.definition.keyword",
-        "storage.type.class",
         "string.quoted.single.basic.line.toml",
         "string.quoted.single.literal.line.toml",
         "source.toml string"
@@ -268,18 +267,18 @@
     },
     {
       "name": "Storage and PHP Variables",
-      "scope": ["storage", "variable.other.php"],
+      "scope": ["storage", "support.constant.property", "variable.other.php"],
       "settings": {
         "foreground": "#6bceff"
       }
     },
     {
-      "name": "Storage Modifier and Function",
+      "name": "JS - Class, Function, and Conditionals",
       "scope": [
+        "keyword.control.conditional.js",
         "keyword.operator.class.php",
         "punctuation.definition.template-expression",
-        "storage.modifier.js",
-        "storage.type.function"
+        "storage.type"
       ],
       "settings": {
         "foreground": "#c294ff"
