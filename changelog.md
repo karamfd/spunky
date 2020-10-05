@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.3
+
+- Changed colors of classes, functions, and conditionals in JS from blue to violet.
+- This change makes the code easier to scan
+
 ## 1.2.5
 
 Borders across the editor UI have a darker color, so they are less distracting.
