@@ -199,7 +199,7 @@
       }
     },
     {
-      "name": "CSS - String and Important Keyword",
+      "name": "CSS - Important Keyword",
       "scope": "keyword.other.important",
       "settings": {
         "fontStyle": "italic",

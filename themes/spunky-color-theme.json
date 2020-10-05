@@ -227,8 +227,12 @@
       }
     },
     {
-      "name": "JS - Class, Functions, and Conditionals",
-      "scope": ["storage", "keyword.control.conditional.js"],
+      "name": "JS and PHP - Class, Functions, and Conditionals",
+      "scope": [
+        "storage",
+        "keyword.control.conditional.js",
+        "keyword.operator.class.php"
+      ],
       "settings": {
         "foreground": "#a382ce"
       }
@@ -259,15 +263,21 @@
         "punctuation.definition.keyword",
         "punctuation.definition.template-expression",
         "source.toml string",
-        "variable.other.php"
+        "variable.other.php",
+        "variable.other.global.safer.php"
       ],
       "settings": {
         "foreground": "#6a95b4"
       }
     },
     {
-      "name": "JS - Storage Modifier",
-      "scope": ["storage.modifier.js", "storage.modifier.async.js"],
+      "name": "JS and PHP - Storage Modifier",
+      "scope": [
+        "storage.modifier.js",
+        "storage.modifier.php",
+        "storage.modifier.async.js",
+        "storage.modifier.extends.php"
+      ],
       "settings": {
         "foreground": "#6a95b4"
       }
@@ -331,7 +341,8 @@
       "scope": [
         "constant.character.escape",
         "constant.escape",
-        "constant.other.scss"
+        "constant.other.scss",
+        "support.constant.media.css"
       ],
       "settings": {
         "foreground": "#bd7c99"
