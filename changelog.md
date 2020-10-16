@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5
+
+- Spunky Monkey: Darker UI Colors
+- Spunky Monkey: UI badge colors and status bar background is now green
+
 ## 1.4
 
 - CSS media type color is back to light red
