@@ -358,11 +358,9 @@
     {
       "name": "Escape Characters and HTML String",
       "scope": [
-        "constant.character",
         "constant.character.escape",
         "constant.escape",
         "constant.other.scss",
-        "punctuation.definition.entity.html",
         "support.constant"
       ],
       "settings": {
@@ -402,8 +400,10 @@
     {
       "name": "Sub-methods",
       "scope": [
+        "constant.character",
         "entity.name.module.js",
         "markup.deleted",
+        "punctuation.definition.entity.html",
         "variable.import.parameter.js",
         "variable.other.class.js"
       ],
