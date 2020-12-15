@@ -187,7 +187,6 @@
       "scope": [
         "entity",
         "entity.name.type.class.js",
-        "support",
         "support.class"
       ],
       "settings": {
@@ -250,6 +249,7 @@
         "keyword.key.toml",
         "source.toml keyword",
         "string constant.other.placeholder",
+        "support",
         "variable"
       ],
       "settings": {
