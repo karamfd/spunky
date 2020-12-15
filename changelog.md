@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.1
+
+Changed the syntax highlight colour of support from yellow to white
+
 ## 1.5
 
 - Spunky Monkey: Darker UI Colors
