@@ -40,6 +40,7 @@
     "editor.lineHighlightBackground": "#30384a99",
     "editor.rangeHighlightBackground": "#30384a66",
     "editor.selectionBackground": "#3c465d99",
+    "editorError.background": "#ff606040",
     "editorError.foreground": "#ff6060",
     "editorGutter.background": "#181c25",
     "editorIndentGuide.activeBackground": "#7685a799",
