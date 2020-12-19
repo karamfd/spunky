@@ -9,5 +9,9 @@
     "number": 66,
     "error": missing double quotes
   },
-  "array": ["commando", "ninja", "terminator"]
+  "array": [
+    "commando",
+    "ninja",
+    "terminator"
+  ]
 }
