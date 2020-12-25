@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.6.1
+
+- UI Colour added to `sash.hoverBorder` property, which is useful for themes that don't use borders to distinguish between activity bar, status bar, and so on.
+
 ## 1.6
 
 - Errors in code will now have a background colour of red
