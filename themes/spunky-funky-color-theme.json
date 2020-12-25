@@ -169,6 +169,7 @@
     // Miscellaneous
     "focusBorder": "#c1c8d7",
     "foreground": "#262c3b",
+    "sash.hoverBorder": "#262c3b",
     "selection.background": "#ad004e80"
   },
   "semanticHighlighting": true,
