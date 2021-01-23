@@ -1,20 +1,13 @@
 # VSCode Theme: Spunky
 
-- Spunky is a theme with a minimal color palette for syntax highlighting.
-- It is specifically designed to comply with the WCAG AA accessibility guidelines.
+- Spunky is a theme with a minimal colour palette for syntax highlighting.
+- It is specifically designed to comply with the WCAG AA accessibility
+  guidelines.
 - It comes in 3 different variations.
 
 ## Spunky
 
 ![Spunky Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky.png)
-
-## Spunky Monkey
-
-![Spunky Monkey Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky-monkey.png)
-
-## Spunky Funky
-
-![Spunky Funky Screenshot](https://raw.githubusercontent.com/karamfd/spunky/master/img/spunky-funky.png)
 
 ## Language Support
 
