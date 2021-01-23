@@ -2,11 +2,14 @@
 
 ## 2.0.0
 
-- Reverted back to a single theme because it's much easier to maintain in the future
+- Reverted back to a single theme because it's much easier to maintain in the
+  future
 
 ## 1.6.1
 
-- UI Colour added to `sash.hoverBorder` property, which is useful for themes that don't use borders to distinguish between activity bar, status bar, and so on.
+- UI Colour added to `sash.hoverBorder` property, which is useful for themes
+  that don't use borders to distinguish between activity bar, status bar, and so
+  on.
 
 ## 1.6
 
@@ -30,16 +33,19 @@
 
 ## 1.3
 
-- Changed colours of classes, functions, and conditionals in JS from blue to violet.
+- Changed colours of classes, functions, and conditionals in JS from blue to
+  violet.
 - This change makes the code easier to scan
 
 ## 1.2.5
 
-- Borders across the editor UI have a darker colour, so they are less distracting.
+- Borders across the editor UI have a darker colour, so they are less
+  distracting.
 
 ## 1.2
 
-- Increased the contrast of the line highlight and selection background, so I can better see the highlighted line and code.
+- Increased the contrast of the line highlight and selection background, so I
+  can better see the highlighted line and code.
 
 ## 1.1
 
@@ -49,20 +55,26 @@
 ## 1.0
 
 - Spunky Monkey UI notification colour was changed from light red to yellow
-- Spunky Monkey syntax colours are now mostly compatible with the AAA Accessibility Guidelines.
-- Changed the template expression colour from blue to violet, so it doesn't clash with the strings colours of cyan.
-- PHP arrow functions and regular functions have the same syntax colour of violet
+- Spunky Monkey syntax colours are now mostly compatible with the AAA
+  Accessibility Guidelines.
+- Changed the template expression colour from blue to violet, so it doesn't
+  clash with the strings colours of cyan.
+- PHP arrow functions and regular functions have the same syntax colour of
+  violet
 - PHP global variables and regular variables have the same syntax colour of blue
 
 ## 0.9
 
-- Changed the string colours in the Spunky Monkey theme to closely match the syntax colours of the original Spunky theme in HTML.
-- The default numeric syntax colour of light red is now used for all programming languages.
+- Changed the string colours in the Spunky Monkey theme to closely match the
+  syntax colours of the original Spunky theme in HTML.
+- The default numeric syntax colour of light red is now used for all programming
+  languages.
 - Added a number variable in the PHP demo file
 
 ## 0.8
 
-- All config files in the Spunky Monkey theme have the same colours of yellow instead of light red.
+- All config files in the Spunky Monkey theme have the same colours of yellow
+  instead of light red.
 - Yellow doesn't clash with red, which is used to display invalid syntax.
 
 ## 0.7
@@ -71,7 +83,8 @@
 
 ## 0.6.2
 
-- Added a selection background property for the input field, so I can better see the highlighted text.
+- Added a selection background property for the input field, so I can better see
+  the highlighted text.
 
 ## 0.6.1
 
@@ -98,7 +111,8 @@
 ## 0.4
 
 - Added a config.md file, which requires a YAML syntax.
-- All colour themes have been modified to include the same colours for YAML and this new config.md file.
+- All colour themes have been modified to include the same colours for YAML and
+  this new config.md file.
 
 ## 0.3
 
@@ -108,7 +122,8 @@
 ## 0.2.1
 
 - SCSS numeric colours changed from red to yellow
-- Color change provides a better distinction when using long SCSS specific functions
+- Color change provides a better distinction when using long SCSS specific
+  functions
 
 ## 0.2
 
@@ -126,8 +141,10 @@
 
 ## 0.1.5
 
-- Changed string colours from green to red to make the theme more colourblind friendly
-- Changed numbers in javascript and php from red to green to distinguish them from strings
+- Changed string colours from green to red to make the theme more colourblind
+  friendly
+- Changed numbers in javascript and php from red to green to distinguish them
+  from strings
 - Changed numbers in sql from red to yellow to distinguish them from strings
 
 ## 0.1
