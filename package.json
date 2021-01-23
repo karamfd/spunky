@@ -2,7 +2,7 @@
   "name": "spunky",
   "displayName": "Spunky",
   "description": "dark theme with a minimal colour palette",
-  "version": "1.6.1",
+  "version": "2.0.0",
   "publisher": "karamfd",
   "icon": "img/icon.png",
   "repository": {
@@ -21,16 +21,6 @@
         "label": "Spunky",
         "uiTheme": "vs-dark",
         "path": "./themes/spunky-color-theme.json"
-      },
-      {
-        "label": "Spunky Monkey",
-        "uiTheme": "vs-dark",
-        "path": "./themes/spunky-monkey-color-theme.json"
-      },
-      {
-        "label": "Spunky Funky",
-        "uiTheme": "vs",
-        "path": "./themes/spunky-funky-color-theme.json"
       }
     ]
   }
