@@ -65,7 +65,7 @@
     "gitDecoration.conflictingResourceForeground": "#bf8640",
     "gitDecoration.deletedResourceForeground": "#9f6f6f",
     "gitDecoration.ignoredResourceForeground": "#999999",
-    "gitDecoration.modifiedResourceForeground": "#9e8f67",
+    "gitDecoration.modifiedResourceForeground": "#989086",
     "gitDecoration.untrackedResourceForeground": "#779e7e",
     // input
     "input.background": "#2e3648",
@@ -143,7 +143,7 @@
     "terminal.ansiBrightMagenta": "#a382ce",
     "terminal.ansiBrightRed": "#9f6f6f",
     "terminal.ansiBrightWhite": "#cccfd6",
-    "terminal.ansiBrightYellow": "#9e8f67",
+    "terminal.ansiBrightYellow": "#989086",
     "terminal.ansiBlack": "#999999",
     "terminal.ansiBlue": "#6a95b4",
     "terminal.ansiCyan": "#4ea1a7",
@@ -151,7 +151,7 @@
     "terminal.ansiMagenta": "#a382ce",
     "terminal.ansiRed": "#9f6f6f",
     "terminal.ansiWhite": "#b0b4bf",
-    "terminal.ansiYellow": "#9e8f67",
+    "terminal.ansiYellow": "#989086",
     "terminal.background": "#161a22",
     "terminal.foreground": "#b0b4bf",
     "terminal.selectionBackground": "#46526d40",
@@ -192,7 +192,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#9e8f67"
+        "foreground": "#989086"
       }
     },
     {
@@ -220,7 +220,7 @@
         "entity.other.attribute-name.id.css"
       ],
       "settings": {
-        "foreground": "#9e8f67"
+        "foreground": "#989086"
       }
     },
     {
@@ -391,7 +391,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#9e8f67"
+        "foreground": "#989086"
       }
     },
     {
@@ -432,7 +432,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#9e8f67"
+        "foreground": "#989086"
       }
     },
     {
@@ -662,7 +662,7 @@
         "string.other.link.title.markdown"
       ],
       "settings": {
-        "foreground": "#9e8f67"
+        "foreground": "#989086"
       }
     },
     {
