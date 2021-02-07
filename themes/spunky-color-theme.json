@@ -262,7 +262,8 @@
       "name": "Invalid",
       "scope": [
         "invalid",
-        "invalid.illegal"
+        "invalid.deprecated",
+        "invalid.illegal",
       ],
       "settings": {
         "foreground": "#dc6e51"
