@@ -13,6 +13,7 @@ body {
   background-image: url(../icon.png);
   font-family: "Courier New", Courier, monospace;
   color: var(--white);
+  grid-column: span 2;
 }
 
 .class {
