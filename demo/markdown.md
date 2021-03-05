@@ -13,7 +13,7 @@
 3.  Choose **Extensions** from menu
 4.  Search for `night-owl`
 5.  Click **Install** to install it
-6.  File > Preferences > Color Theme > *Spunky*
+6.  File > Preferences > Color Theme > _Spunky_
 
 ## Checklist
 
