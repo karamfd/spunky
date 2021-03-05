@@ -185,38 +185,15 @@
       }
     },
     {
-      "name": "CSS Property Value, Entity and Media Queries",
-      "scope": [
-        "entity",
-        "entity.name.type.class.js",
-        "support.class"
-      ],
-      "settings": {
-        "foreground": "#ff978f"
-      }
-    },
-    {
-      "name": "Numbers & Hex Colors",
+      "name": "CSS",
       "scope": [
         "constant.numeric",
-        "constant.other.color"
-      ],
-      "settings": {
-        "foreground": "#ff978f"
-      }
-    },
-    {
-      "name": "CSS - Important Keyword",
-      "scope": "keyword.other.important",
-      "settings": {
-        "foreground": "#ff978f"
-      }
-    },
-    {
-      "name": "CSS Classes and IDs",
-      "scope": [
+        "constant.other.color",
+        "entity",
         "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.id.css"
+        "entity.other.attribute-name.id.css",
+        "keyword.other.important",
+        "support.class"
       ],
       "settings": {
         "foreground": "#ff978f"
@@ -236,11 +213,10 @@
       "name": "JS and PHP - Class, Functions, and Conditionals",
       "scope": [
         "storage",
-        "keyword.control.conditional.js",
         "keyword.operator.class.php"
       ],
       "settings": {
-        "foreground": "#fad000"
+        "foreground": "#00d6cb"
       }
     },
     {
@@ -274,14 +250,6 @@
         "punctuation.definition.keyword",
         "punctuation.definition.template-expression",
         "source.toml string",
-      ],
-      "settings": {
-        "foreground": "#00d6cb"
-      }
-    },
-    {
-      "name": "JS and PHP - Storage Modifier",
-      "scope": [
         "storage.modifier.js",
         "storage.modifier.php",
         "storage.modifier.async.js",
@@ -342,6 +310,7 @@
         "entity.name.method.js",
         "keyword",
         "keyword.other.special-method",
+        "meta.property-value.css",
         "support.constant",
         "support.function",
         "variable.function"
@@ -354,7 +323,9 @@
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.character",
-        "punctuation.definition.entity.html"
+        "punctuation.definition.entity.html",
+        "storage.type.class.js",
+        "storage.type.function.js"
       ],
       "settings": {
         "foreground": "#fad000"
@@ -366,6 +337,7 @@
         "constant.character.escape",
         "constant.escape",
         "constant.other.scss",
+        "entity.name.type.class.js",
         "support.constant.media.css"
       ],
       "settings": {
@@ -391,24 +363,19 @@
       }
     },
     {
-      "name": "Class, Support",
-      "scope": [
-        "markup.changed",
-        "markup.changed.git_gutter",
-        "meta.use.php",
-        "support.orther.namespace.use.php",
-        "support.other.namespace.php",
-        "support.type.sys-types"
-      ],
-      "settings": {
-        "foreground": "#fad000"
-      }
-    },
-    {
-      "name": "Sub-methods",
+      "name": "Class, Support, Decorators, and Sub-Methods",
       "scope": [
         "entity.name.module.js",
+        "markup.changed",
+        "markup.changed.git_gutter",
         "markup.deleted",
+        "meta.use.php",
+        "source.js constant.other.object.key.js string.unquoted.label.js",
+        "support.orther.namespace.use.php",
+        "support.other.namespace.php",
+        "support.type.sys-types",
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js",
         "variable.import.parameter.js",
         "variable.other.class.js"
       ],
@@ -425,25 +392,6 @@
       ],
       "settings": {
         "fontStyle": "underline"
-      }
-    },
-    {
-      "name": "Decorators",
-      "scope": [
-        "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
-      ],
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#fad000"
-      }
-    },
-    {
-      "name": "ES7 Bind Operator",
-      "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
-      "settings": {
-        "fontStyle": "",
-        "foreground": "#fad000"
       }
     },
     {
