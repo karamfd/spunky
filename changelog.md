@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.0.0
+
+- Colour theme is now brighter and provides good accessibility for the
+  colour-blind
+
 ## 2.0.0
 
 - Reverted back to a single theme because it's much easier to maintain in the
