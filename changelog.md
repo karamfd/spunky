@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.1
+
+- Javascript function and class keywords are now in yellow
+- Javascript variables and conditionals are now in cyan
+
 ## 3.0.0
 
 - Colour theme is now brighter and provides good accessibility for the
