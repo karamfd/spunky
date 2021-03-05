@@ -136,7 +136,7 @@
     "tab.border": "#0a0c10",
     "tab.inactiveBackground": "#222835",
     // terminal
-    "terminal.ansiBrightBlack": "#999999",
+    "terminal.ansiBrightBlack": "#a885ad",
     "terminal.ansiBrightBlue": "#609bff",
     "terminal.ansiBrightCyan": "#00d6cb",
     "terminal.ansiBrightGreen": "#70ff8f",
