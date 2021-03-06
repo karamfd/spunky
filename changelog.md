@@ -1,16 +1,22 @@
 # Change Log
 
+## 3.2
+
+- Modified files are now indicated with green text instead of yellow
+- Untracked files are now indicated with violet text instead of green
+- Removed git decoration borders as they are too distracting
+
 ## 3.1
 
 - Javascript function and class keywords are now in yellow
 - Javascript variables and conditionals are now in cyan
 
-## 3.0.0
+## 3
 
 - Colour theme is now brighter and provides good accessibility for the
   colour-blind
 
-## 2.0.0
+## 2
 
 - Reverted back to a single theme because it's much easier to maintain in the
   future
