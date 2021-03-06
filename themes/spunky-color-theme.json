@@ -28,9 +28,7 @@
     "button.hoverBackground": "#3a435a",
     // diffEditor
     "diffEditor.insertedTextBackground": "#70ff8f22",
-    "diffEditor.insertedTextBorder": "#70ff8f44",
     "diffEditor.removedTextBackground": "#ff978f22",
-    "diffEditor.removedTextBorder": "#ff978f44",
     // editor
     "editor.background": "#222835",
     "editor.findMatchBackground": "#3a435a",
@@ -40,7 +38,7 @@
     "editor.lineHighlightBackground": "#3a435a66",
     "editor.rangeHighlightBackground": "#3a435a66",
     "editor.selectionBackground": "#46526d66",
-    "editorError.background": "#ffbf7040",
+    "editorError.background": "#ffbf7022",
     "editorError.foreground": "#ffbf70",
     "editorGutter.background": "#222835",
     "editorIndentGuide.activeBackground": "#bcbfc866",
@@ -65,8 +63,8 @@
     "gitDecoration.conflictingResourceForeground": "#ffbf70",
     "gitDecoration.deletedResourceForeground": "#ff978f",
     "gitDecoration.ignoredResourceForeground": "#bcbfc8",
-    "gitDecoration.modifiedResourceForeground": "#fad000",
-    "gitDecoration.untrackedResourceForeground": "#70ff8f",
+    "gitDecoration.modifiedResourceForeground": "#70ff8f",
+    "gitDecoration.untrackedResourceForeground": "#c2adff",
     // input
     "input.background": "#2e3648",
     "input.border": "#0a0c10",
