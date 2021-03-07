@@ -185,7 +185,6 @@
     {
       "name": "CSS",
       "scope": [
-        "constant.numeric",
         "constant.other.color",
         "entity",
         "entity.other.attribute-name.class.css",
@@ -220,6 +219,8 @@
     {
       "name": "Variables",
       "scope": [
+        "constant.language.null",
+        "entity.name.type.class",
         "entity.other.inherited-class.js",
         "keyword.key.toml",
         "source.toml keyword",
@@ -273,6 +274,7 @@
       "name": "Operator, Misc",
       "scope": [
         "constant",
+        "entity.name.function.js",
         "keyword.other.substitution",
         "keyword.other.template",
         "meta.brace",
@@ -311,7 +313,8 @@
         "meta.property-value.css",
         "support.constant",
         "support.function",
-        "variable.function"
+        "variable.function",
+        "variable.other.object.js"
       ],
       "settings": {
         "foreground": "#00d6cb"
@@ -321,9 +324,11 @@
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.character",
+        "constant.numeric",
         "punctuation.definition.entity.html",
-        "storage.type.class.js",
-        "storage.type.function.js"
+        "storage.type.class",
+        "storage.type.function",
+        "storage.type.function.arrow"
       ],
       "settings": {
         "foreground": "#fad000"
@@ -334,9 +339,10 @@
       "scope": [
         "constant.character.escape",
         "constant.escape",
+        "constant.language.boolean",
         "constant.other.scss",
-        "entity.name.type.class.js",
-        "support.constant.media.css"
+        "support.constant.media.css",
+        "variable.language.this.js"
       ],
       "settings": {
         "foreground": "#ff978f"
