@@ -1,5 +1,18 @@
 # Change Log
 
+## 3.4
+
+- `Class` and `function name` colours are white
+- `Null` keyword colour is also in white
+- Javascript `Objects` have a colour of cyan instead of white
+
+## 3.3
+
+- Number colours are in yellow instead of red
+- `Arrow functions` are yellow, just like the function keyword
+- Javascript `this` keyword colour is red instead of white
+- `Booleans` colours are red instead of cyan
+
 ## 3.2
 
 - Modified files are now indicated with green text instead of yellow
