@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.4.1
+
+- Improved the colour contrast of comments to make it compatible with the AA
+  accessibility guidelines
+- Colour contrast increased from 3.48 to 4.61
+
 ## 3.4
 
 - `Class` and `function name` colours are white
