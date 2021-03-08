@@ -31,8 +31,8 @@
     "diffEditor.removedTextBackground": "#ff978f22",
     // editor
     "editor.background": "#222835",
-    "editor.findMatchBackground": "#3a435a",
-    "editor.findMatchHighlightBackground": "#ff978f40",
+    "editor.findMatchBackground": "#46526d",
+    "editor.findMatchHighlightBackground": "#3a435acc",
     "editor.findRangeHighlightBackground": "#3a435a66",
     "editor.foreground": "#bcbfc8",
     "editor.lineHighlightBackground": "#3a435a66",
