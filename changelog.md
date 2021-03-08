@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.6
+
+- Yellow colour changed to `#fad108`
+- Foreground colour changed to `#c7c6d2` to avoid conflicting with `#00d6cb` for
+  people with protanopia colour blindness
+
 ## 3.5.1
 
 - Words that match our search have a dark grey background instead of dark red
