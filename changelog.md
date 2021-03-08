@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.1
+
+- Brighter white for UI interface and terminal white to further avoid colour
+  accessibility conflicts
+- Darker green for terminal colours to prevent eye strain
+
 ## 4
 
 - Validation errors are once again indicated in red
