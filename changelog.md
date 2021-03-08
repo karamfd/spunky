@@ -1,5 +1,10 @@
 # Change Log
 
+## 3.5.1
+
+- Words that match our search have a dark grey background instead of dark red
+- Dark red background was too distracting and clashed with red syntax colours
+
 ## 3.5
 
 - New and modified files and folders are now indicated in cyan instead of green
