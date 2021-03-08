@@ -1,10 +1,16 @@
 # Change Log
 
+## 3.5
+
+- New and modified files and folders are now indicated in cyan instead of green
+- Terminal selection background colour was changed to `#8390af` to make the
+  selection more obvious
+- Removed the word `Operator` from the name description and left it as `Misc`
+
 ## 3.4.1
 
 - Improved the colour contrast of comments to make it compatible with the AA
-  accessibility guidelines
-- Colour contrast increased from 3.48 to 4.61
+  accessibility guidelines (colour contrast increased from 3.48 to 4.61)
 
 ## 3.4
 
