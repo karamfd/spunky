@@ -38,8 +38,8 @@
     "editor.lineHighlightBackground": "#3a435a66",
     "editor.rangeHighlightBackground": "#3a435a66",
     "editor.selectionBackground": "#46526d66",
-    "editorError.background": "#ffbf7022",
-    "editorError.foreground": "#ffbf70",
+    "editorError.background": "#ff978f22",
+    "editorError.foreground": "#ff978f",
     "editorGutter.background": "#222835",
     "editorIndentGuide.activeBackground": "#bcbfc866",
     "editorIndentGuide.background": "#bcbfc822",
@@ -60,7 +60,7 @@
     "extensionButton.prominentHoverBackground": "#ff978f40",
     // gitDecoration
     "gitDecoration.addedResourceForeground": "#00d6cb",
-    "gitDecoration.conflictingResourceForeground": "#ffbf70",
+    "gitDecoration.conflictingResourceForeground": "#f9c09f",
     "gitDecoration.deletedResourceForeground": "#ff978f",
     "gitDecoration.ignoredResourceForeground": "#bcbfc8",
     "gitDecoration.modifiedResourceForeground": "#00d6cb",
@@ -141,7 +141,7 @@
     "terminal.ansiBrightMagenta": "#c2adff",
     "terminal.ansiBrightRed": "#ff978f",
     "terminal.ansiBrightWhite": "#cccfd6",
-    "terminal.ansiBrightYellow": "#fad108",
+    "terminal.ansiBrightYellow": "#f9c09f",
     "terminal.ansiBlack": "#999999",
     "terminal.ansiBlue": "#609bff",
     "terminal.ansiCyan": "#00d6cb",
@@ -149,7 +149,7 @@
     "terminal.ansiMagenta": "#c2adff",
     "terminal.ansiRed": "#ff978f",
     "terminal.ansiWhite": "#bcbfc8",
-    "terminal.ansiYellow": "#fad108",
+    "terminal.ansiYellow": "#f9c09f",
     "terminal.background": "#161a22",
     "terminal.foreground": "#bcbfc8",
     "terminal.selectionBackground": "#8390af",
@@ -168,7 +168,7 @@
     "focusBorder": "#2e3648",
     "foreground": "#c7c6d2",
     "sash.hoverBorder": "#46526d",
-    "selection.background": "#ff978f80"
+    "selection.background": "#ff978f40"
   },
   "semanticHighlighting": true,
   "tokenColors": [
@@ -193,7 +193,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#ff978f"
+        "foreground": "#f9c09f"
       }
     },
     {
@@ -240,7 +240,7 @@
         "invalid.illegal",
       ],
       "settings": {
-        "foreground": "#ffbf70"
+        "foreground": "#ff978f"
       }
     },
     {
@@ -274,7 +274,7 @@
       "name": "Misc",
       "scope": [
         "constant",
-        "entity.name.function.js",
+        "entity.name.function",
         "keyword.other.substitution",
         "keyword.other.template",
         "meta.brace",
@@ -323,29 +323,29 @@
     {
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "constant.character",
-        "constant.numeric",
-        "punctuation.definition.entity.html",
         "storage.type.class",
         "storage.type.function",
         "storage.type.function.arrow"
       ],
       "settings": {
-        "foreground": "#fad108"
+        "foreground": "#f9c09f"
       }
     },
     {
       "name": "Escape Characters",
       "scope": [
+        "constant.character",
         "constant.character.escape",
         "constant.escape",
         "constant.language.boolean",
+        "constant.numeric",
         "constant.other.scss",
+        "punctuation.definition.entity.html",
         "support.constant.media.css",
         "variable.language.this.js"
       ],
       "settings": {
-        "foreground": "#ff978f"
+        "foreground": "#f9c09f"
       }
     },
     {
@@ -384,7 +384,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#fad108"
+        "foreground": "#f9c09f"
       }
     },
     {
@@ -512,7 +512,7 @@
         "source.yaml constant.language"
       ],
       "settings": {
-        "foreground": "#ff978f"
+        "foreground": "#f9c09f"
       }
     },
     {
@@ -617,7 +617,7 @@
         "string.other.link.title.markdown"
       ],
       "settings": {
-        "foreground": "#ff978f"
+        "foreground": "#f9c09f"
       }
     },
     {
@@ -677,7 +677,7 @@
         "punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#ff978f"
+        "foreground": "#f9c09f"
       }
     }
   ]
