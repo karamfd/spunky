@@ -34,7 +34,7 @@
     "editor.findMatchBackground": "#46526d",
     "editor.findMatchHighlightBackground": "#3a435acc",
     "editor.findRangeHighlightBackground": "#3a435a66",
-    "editor.foreground": "#bcbfc8",
+    "editor.foreground": "#c7c6d2",
     "editor.lineHighlightBackground": "#3a435a66",
     "editor.rangeHighlightBackground": "#3a435a66",
     "editor.selectionBackground": "#46526d66",
@@ -141,7 +141,7 @@
     "terminal.ansiBrightMagenta": "#c2adff",
     "terminal.ansiBrightRed": "#ff978f",
     "terminal.ansiBrightWhite": "#cccfd6",
-    "terminal.ansiBrightYellow": "#fad000",
+    "terminal.ansiBrightYellow": "#fad108",
     "terminal.ansiBlack": "#999999",
     "terminal.ansiBlue": "#609bff",
     "terminal.ansiCyan": "#00d6cb",
@@ -149,7 +149,7 @@
     "terminal.ansiMagenta": "#c2adff",
     "terminal.ansiRed": "#ff978f",
     "terminal.ansiWhite": "#bcbfc8",
-    "terminal.ansiYellow": "#fad000",
+    "terminal.ansiYellow": "#fad108",
     "terminal.background": "#161a22",
     "terminal.foreground": "#bcbfc8",
     "terminal.selectionBackground": "#8390af",
@@ -166,7 +166,7 @@
     "welcomePage.buttonHoverBackground": "#2e3648",
     // Miscellaneous
     "focusBorder": "#2e3648",
-    "foreground": "#bcbfc8",
+    "foreground": "#c7c6d2",
     "sash.hoverBorder": "#46526d",
     "selection.background": "#ff978f80"
   },
@@ -229,7 +229,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -286,7 +286,7 @@
         "source.css support"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -331,7 +331,7 @@
         "storage.type.function.arrow"
       ],
       "settings": {
-        "foreground": "#fad000"
+        "foreground": "#fad108"
       }
     },
     {
@@ -384,7 +384,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#fad000"
+        "foreground": "#fad108"
       }
     },
     {
@@ -404,7 +404,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -413,7 +413,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -422,7 +422,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -431,7 +431,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -440,7 +440,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -449,7 +449,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -458,7 +458,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -467,7 +467,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -476,7 +476,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -486,7 +486,7 @@
         "punctuation.support.type.property-name.end.json"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -522,14 +522,14 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline Punctuation",
       "scope": "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -554,7 +554,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -596,7 +596,7 @@
       "name": "Markdown - Blockquote",
       "scope": "markup.quote punctuation.definition.blockquote.markdown",
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -627,7 +627,7 @@
         "punctuation.definition.fenced.markdown"
       ],
       "settings": {
-        "foreground": "#bcbfc880"
+        "foreground": "#c7c6d280"
       }
     },
     {
@@ -640,7 +640,7 @@
         "variable.language.fenced.markdown"
       ],
       "settings": {
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
@@ -648,7 +648,7 @@
       "scope": "meta.separator",
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#bcbfc8"
+        "foreground": "#c7c6d2"
       }
     },
     {
