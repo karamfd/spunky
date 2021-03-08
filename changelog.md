@@ -1,5 +1,11 @@
 # Change Log
 
+## 4
+
+- Validation errors are once again indicated in red
+- Syntax colours of red and yellow are replaced by orange
+- Terminal yellow is replaced with orange as the former was too bright
+
 ## 3.6
 
 - Yellow colour changed to `#fad108`
