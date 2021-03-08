@@ -59,11 +59,11 @@
     "extensionButton.prominentForeground": "#cccfd6",
     "extensionButton.prominentHoverBackground": "#ff978f40",
     // gitDecoration
-    "gitDecoration.addedResourceForeground": "#70ff8f",
+    "gitDecoration.addedResourceForeground": "#00d6cb",
     "gitDecoration.conflictingResourceForeground": "#ffbf70",
     "gitDecoration.deletedResourceForeground": "#ff978f",
     "gitDecoration.ignoredResourceForeground": "#bcbfc8",
-    "gitDecoration.modifiedResourceForeground": "#70ff8f",
+    "gitDecoration.modifiedResourceForeground": "#00d6cb",
     "gitDecoration.untrackedResourceForeground": "#c2adff",
     // input
     "input.background": "#2e3648",
@@ -152,7 +152,7 @@
     "terminal.ansiYellow": "#fad000",
     "terminal.background": "#161a22",
     "terminal.foreground": "#bcbfc8",
-    "terminal.selectionBackground": "#46526d40",
+    "terminal.selectionBackground": "#8390af",
     "terminalCursor.foreground": "#bcbfc880",
     // titleBar (Mac OS)
     "titleBar.activeBackground": "#161a22",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "name": "Operator, Misc",
+      "name": "Misc",
       "scope": [
         "constant",
         "entity.name.function.js",
