@@ -93,6 +93,7 @@
     // quickInput (command palette)
     "quickInput.background": "#161a22",
     "quickInput.foreground": "#bcbfc8",
+    "quickInput.list.focusBackground": "#2e3648",
     // settings (GUI ONLY)
     "settings.checkboxBackground": "#2e3648",
     "settings.checkboxBorder": "#0a0c10",
