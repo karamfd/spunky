@@ -15,7 +15,7 @@
     "activityBarBadge.background": "#ff978f",
     "activityBarBadge.foreground": "#0a0c10",
     "badge.background": "#46526d",
-    "badge.foreground": "#cccfd6",
+    "badge.foreground": "#d7dadf",
     // breadcrumb
     "breadcrumb.activeSelectionForeground": "#bcbfc8",
     "breadcrumb.background": "#161a22",
@@ -27,7 +27,7 @@
     "button.foreground": "#bcbfc8",
     "button.hoverBackground": "#3a435a",
     // diffEditor
-    "diffEditor.insertedTextBackground": "#70ff8f22",
+    "diffEditor.insertedTextBackground": "#4fe00022",
     "diffEditor.removedTextBackground": "#ff978f22",
     // editor
     "editor.background": "#222835",
@@ -56,7 +56,7 @@
     "editorWidget.border": "#0a0c10",
     // extension
     "extensionButton.prominentBackground": "#ff978f80",
-    "extensionButton.prominentForeground": "#cccfd6",
+    "extensionButton.prominentForeground": "#d7dadf",
     "extensionButton.prominentHoverBackground": "#ff978f40",
     // gitDecoration
     "gitDecoration.addedResourceForeground": "#00d6cb",
@@ -72,7 +72,7 @@
     // search results match case
     "inputOption.activeBackground": "#8390af40",
     "inputOption.activeBorder": "#0a0c10",
-    "inputOption.activeForeground": "#cccfd6",
+    "inputOption.activeForeground": "#d7dadf",
     "input.placeholderForeground": "#bcbfc8b3",
     // list
     "list.activeSelectionBackground": "#3a435a",
@@ -137,15 +137,15 @@
     "terminal.ansiBrightBlack": "#a885ad",
     "terminal.ansiBrightBlue": "#609bff",
     "terminal.ansiBrightCyan": "#00d6cb",
-    "terminal.ansiBrightGreen": "#70ff8f",
+    "terminal.ansiBrightGreen": "#4fe000",
     "terminal.ansiBrightMagenta": "#c2adff",
     "terminal.ansiBrightRed": "#ff978f",
-    "terminal.ansiBrightWhite": "#cccfd6",
+    "terminal.ansiBrightWhite": "#d7dadf",
     "terminal.ansiBrightYellow": "#f9c09f",
     "terminal.ansiBlack": "#999999",
     "terminal.ansiBlue": "#609bff",
     "terminal.ansiCyan": "#00d6cb",
-    "terminal.ansiGreen": "#70ff8f",
+    "terminal.ansiGreen": "#4fe000",
     "terminal.ansiMagenta": "#c2adff",
     "terminal.ansiRed": "#ff978f",
     "terminal.ansiWhite": "#bcbfc8",
