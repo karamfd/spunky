@@ -1,12 +1,17 @@
 # Change Log
 
+## 4.2
+
+- PHP Opening tags colours were changed from white to cyan
+- PHP echo keyword changed from cyan to orange.
+
 ## 4.1
 
 - Brighter white for UI interface and terminal white to further avoid colour
   accessibility conflicts
 - Darker green for terminal colours to prevent eye strain
 
-## 4
+## 4.0
 
 - Validation errors are once again indicated in red
 - Syntax colours of red and yellow are replaced by orange
@@ -59,7 +64,7 @@
 - Javascript function and class keywords are now in yellow
 - Javascript variables and conditionals are now in cyan
 
-## 3
+## 3.0
 
 - Colour theme is now brighter and provides good accessibility for the
   colour-blind
