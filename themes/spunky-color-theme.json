@@ -191,7 +191,8 @@
         "entity.other.attribute-name.class.css",
         "entity.other.attribute-name.id.css",
         "keyword.other.important",
-        "support.class"
+        "support.class",
+        "support.function"
       ],
       "settings": {
         "foreground": "#f9c09f"
@@ -210,8 +211,9 @@
     {
       "name": "JS and PHP - Class, Functions, and Conditionals",
       "scope": [
-        "storage",
-        "keyword.operator.class.php"
+        "keyword.operator.class.php",
+        "punctuation.section.embedded",
+        "storage"
       ],
       "settings": {
         "foreground": "#00d6cb"
@@ -282,7 +284,6 @@
         "meta.tag",
         "punctuation",
         "punctuation.definition.tag",
-        "punctuation.section.embedded",
         "punctuation.separator.inheritance.php",
         "source.css support"
       ],
@@ -313,7 +314,6 @@
         "keyword.other.special-method",
         "meta.property-value.css",
         "support.constant",
-        "support.function",
         "variable.function",
         "variable.other.object.js"
       ],
